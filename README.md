@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Swift, Python
 - 💞️ I’m looking to collaborate on Mariengraden Coding projects and many more ^-^
 - 📫 How to reach me: I duno is there a chat feature? x)
+- 💻 Favourite Editor: Atom :3
 
 <!---
 JanUwU42/JanUwU42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
