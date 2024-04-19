@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanUwU42
-- 👀 I’m interested in Coding, Anime, Manga, Games, Drawing, and much more Nerd Stuff :3
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Coding, Anime, Manga, Games, Science Fiction, Cars and more :3
+- 🌱 I’m currently learning Linux and improving my Coding Skills in general
 - 💻 My favourite editor is Atom :3
 
 <!---
