@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JanUwU42
-- 👀 I’m interested in Coding, Anime, Manga, Games, Science Fiction, Cars and more :3
-- 🌱 I’m currently learning Linux and improving my coding skills in general
-- 💻 My favourite editor is Atom :3
+- 👋 Hi there, I’m @JanUwU42
+- 👀 I’m interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux, Open Source and more :3
+- 🌱 I’m currently switching over to Linux and I am studying informatics at a university
+- 💻 My favourite editor used to be Atom and is now VSCodium :3
 
 <!---
 JanUwU42/JanUwU42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
