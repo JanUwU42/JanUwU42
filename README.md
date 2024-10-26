@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi there, I’m @JanUwU42
-- 👀 I’m interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux, Open Source and more :3
+- 👀 I’m interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux and Open Source :3
 - 🌱 I’m currently switching over to Linux and I am studying informatics at a university
 - 💻 My favourite editor used to be Atom and is now VSCodium :3
 
@@ -11,10 +11,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=januwu42&layout=compact&theme=catppuccin_mocha)
 
+<!--
+Color Theme seems to be broken, so I'll comment it our for now
 ---
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JanUwU42&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
+
+-->
 
 ---
 
