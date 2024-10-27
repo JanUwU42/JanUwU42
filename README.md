@@ -1,8 +1,9 @@
-# About Me
-- 👋 Hi there, I’m @JanUwU42
-- 👀 I’m interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux and Open Source :3
-- 🌱 I’m currently switching over to Linux and I am studying informatics at a university
-- 💻 My favourite editor used to be Atom and is now VSCodium :3
+# Hey there, I'm Jan!
+- 👀 I'm interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux and Open Source :3
+- 🌱 I'm currently switching over to Linux and I am studying informatics at a [university](https://www.w-hs.de/ "Westfälische Hochschule")
+- 💻 My favourite editor used to be [Atom](https://atom-editor.cc/) and is now [VSCodium](https://vscodium.com/) :3
+- 🐈 [Catppuccin](https://catppuccin.com/) enthusiast!
+- 🐧I use [Garuda](https://garudalinux.org/ "Arch Linux based Gaming Distro"), btw
 
 ---
 # GitHub Stats
@@ -12,11 +13,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=januwu42&layout=compact&theme=catppuccin_mocha)
 
 <!--
-Color Theme seems to be broken, so I'll comment it our for now
+Color Theme for Trophies seems to be broken, so I'll comment it our for now
 ---
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JanUwU42&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JanUwU42&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
 
 -->
 
