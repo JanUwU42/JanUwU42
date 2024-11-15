@@ -5,7 +5,7 @@
 </div>
 
 - 👀 I'm interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux and Open Source :3
-- 🌱 I'm currently switching over to Linux and I am studying informatics at a [university](https://www.w-hs.de/ "Westfälische Hochschule")
+- 🌱 I'm currently learning Rust and I am studying informatics at a [university](https://www.w-hs.de/ "Westfälische Hochschule")
 - 💻 My favourite editor used to be [Atom](https://atom-editor.cc/) and is now [VSCodium](https://vscodium.com/) :3
 - 🐈 [Catppuccin](https://catppuccin.com/) enthusiast!
 - 🐧I use [Garuda](https://garudalinux.org/ "Arch Linux based Gaming Distro"), btw
