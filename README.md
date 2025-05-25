@@ -6,7 +6,7 @@
 
 - 👀 I'm interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux and Open Source :3
 - 🌱 I'm currently learning Rust and I am studying business informatics at a university.
-- 💻 My favourite editor used to be [Atom](https://atom-editor.cc/) and is now [VSCodium](https://vscodium.com/) :3
+- 💻 My favourite editors are [VSCodium](https://vscodium.com/) and [Zed](https://zed.dev/) :3 (RIP [Atom](https://atom-editor.cc/) 🫡)
 - 🐈 [Catppuccin](https://catppuccin.com/) enthusiast!
 - 🐧I use [Garuda](https://garudalinux.org/ "Arch Linux based Gaming Distro"), btw
 
