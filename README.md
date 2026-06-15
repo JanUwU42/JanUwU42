@@ -4,14 +4,17 @@
 
 </div>
 
-- 👀 I'm interested in Coding, Anime, Manga, Games, Science Fiction, Cars, Motorcycles, Photography, Linux and Open Source :3
-- 🌱 I'm currently learning to use Neovim and I am studying business informatics at a university.
-- 💻 My favourite editors are [VSCodium](https://vscodium.com/) and [Zed](https://zed.dev/) :3 (RIP [Atom](https://atom-editor.cc/) 🫡)
+- 👀 I'm interested in Coding, Anime, Manga, Books, Games, Motorcycles, Photography, Linux and Open Source :3
+- 🌱 I'm currently studying business informatics at a university.
+- 💻 My favourite editors are [Neovim](https://neovim.io/) and [Zed](https://zed.dev/) :3 (RIP [Atom](https://atom-editor.cc/) 🫡)
 - 🐈 [Catppuccin](https://catppuccin.com/) enthusiast!
 - 🐧I use [CachyOS](https://cachyos.org/), btw
 
 ---
 <div align="center">
+  
+# Codeberg
+My personal Repos are all moved to [Codeberg](https://codeberg.org/JanUwU42). Come visit me there! :)
   
 # GitHub Stats
 <!-- Credits to https://github.com/anuraghazra/github-readme-stats -->
